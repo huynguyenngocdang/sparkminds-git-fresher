@@ -6,5 +6,4 @@
 # hung edit code v3
 # huy code v4
 # another huy code
-# good code v2
-# good code v3
+# bad code v3

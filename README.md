@@ -11,4 +11,6 @@
 # good code v3
 # huy code 1
 # hung code v1
-
+#
+# good code v1
+# bad code v1
